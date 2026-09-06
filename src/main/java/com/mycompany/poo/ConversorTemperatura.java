@@ -1,6 +1,6 @@
 package com.mycompany.poo;
 import java.util.Scanner;
-public class Algoritmo1 {
+public class ConversorTemperatura {
     public static void main(String[] args) {
         float tc, tf;
         Scanner ent = new Scanner(System.in);
